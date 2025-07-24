@@ -3,7 +3,7 @@
 int main()
 //main begins	
 {
-printf("this isa demo of  C");
-printf("helloworld");//helloworld added
+printf("this is a demo of  C");
+printf("hello world/n");//hello world added
 return 0;//return statement for succesful exit from main
 }
